@@ -19,6 +19,13 @@ let ``Can parse line without value`` () =
     Assert.Equal(None, result.value)
 
 [<Fact>]
+let ``Append node to parent``() =
+    let parent = {DataNode.Zero with level=1}
+    let child = {DataNode.Zero with level=2}
+    let updated = appendChild parent child
+    Assert.Equal(updated.children |> Seq.head, child)
+
+[<Fact>]
 let ``Starts with head `` () =
     let result = fromFile "../../../sample.ged"
     Assert.Equal("HEAD", result.label)
