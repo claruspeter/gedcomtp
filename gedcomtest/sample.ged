@@ -1,0 +1,1214 @@
+0 HEAD
+1 SOUR PAF
+2 NAME Personal Ancestral File
+2 VERS 4.0.4.18
+2 CORP The Church of Jesus Christ of Latter-day Saints
+3 ADDR 50 East North Temple Street
+4 CONT Salt Lake City, UT 84150
+1 DEST PAF
+1 DATE 15 SEP 2001
+2 TIME 20:29:14
+1 FILE maryannem.ged
+1 GEDC
+2 VERS 5.5
+2 FORM LINEAGE-LINKED
+1 CHAR ANSEL
+1 LANG English
+1 SUBM @SUB1@
+0 @SUB1@ SUBM
+1 NAME Ben  Parkinson
+1 ADDR 1340-37th
+2 CONT Ogden, Utah 84403
+1 CTRY USA
+1 PHON 1-801-240-5522
+1 _EMAIL ben@parkinsonfamily.org
+0 @I16@ INDI
+1 NAME Mary Ann /Emms/
+2 GIVN Mary Ann
+2 SURN Emms
+1 SEX F
+1 BIRT
+2 DATE 22 JAN 1835
+2 PLAC Cheltenham,Gloucester,England
+1 DEAT
+2 DATE 26 MAR 1919
+2 PLAC Franklin,Franklin,Idaho
+1 BURI
+2 PLAC Franklin,Franklin,Idaho
+1 BAPL
+2 DATE 7 APR 1853
+1 ENDL
+2 DATE 8 NOV 1867
+2 TEMP EHOUS
+1 FAMC @F11@
+1 SLGC
+2 FAMC @F11@
+2 DATE 25 MAR 1968
+2 TEMP LOGAN
+0 @I50@ INDI
+1 NAME Charles /Emms/
+2 GIVN Charles
+2 SURN Emms
+1 SEX M
+1 BIRT
+2 DATE 19 FEB 1809
+2 PLAC Ilmington,Warwick,England
+1 BAPL
+2 DATE 28 MAR 1911
+2 TEMP LOGAN
+1 ENDL
+2 DATE 29 MAR 1911
+2 TEMP LOGAN
+1 FAMS @F11@
+1 FAMC @F30@
+1 SLGC
+2 FAMC @F30@
+2 DATE 3 AUG 1990
+2 TEMP JRIVE
+1 NOTE Source:
+2 CONT 
+2 CONT 1. Eng. F# 394303, Bish's Transcripts. No. 139, p. 47.
+2 CONT 
+2 CONT 2. 1851 Census, Gloucester, Cheltenham, England. F# 7373, St.Paul's, p.425,
+2 CONT (17).
+2 CONT 
+2 CONT Note: The page is numbered twice. Page 17 is at the top and 425 in the
+2 CONT upper right hand corner. Charles is 42yrs. old and Edith 51. Charles is a
+2 CONT basket maker and Edith a bonnett maker. Only Mary A. and John are listed
+2 CONT as children being born in Cheltenham.
+2 CONT 
+2 CONT 3. 1841 Census, Gloucester, Cheltenham, England, F# 288767 P. 58, Dist. # 19.
+2 CONT 
+2 CONT Note: Son Charles is not listed with a middle name. Richard and is not
+2 CONT listed in the 1851 Census.
+0 @I51@ INDI
+1 NAME Edith /Ayers/
+2 GIVN Edith
+2 SURN Ayers
+1 SEX F
+1 BIRT
+2 DATE 16 MAR 1801
+2 PLAC Avening,Gloucester,England
+1 BAPL
+2 DATE 11 APR 1967
+2 TEMP SLAKE
+1 ENDL
+2 DATE 19 APR 1967
+2 TEMP SLAKE
+1 FAMS @F11@
+1 FAMC @F31@
+1 SLGC
+2 FAMC @F31@
+2 DATE 23 AUG 1983
+2 TEMP SLAKE
+0 @I73@ INDI
+1 NAME Richard /Ayers/
+2 GIVN Richard
+2 SURN Ayers
+1 SEX M
+1 BIRT
+2 DATE ABT 1772
+1 BURI
+2 DATE 8 JUL 1854
+2 PLAC Avening,Gloucester,England
+1 REFN 0046
+1 BAPL
+2 DATE 10 NOV 1951
+2 TEMP ARIZO
+1 ENDL
+2 DATE 11 MAR 1952
+2 TEMP ARIZO
+1 FAMS @F31@
+1 NOTE Sources:
+2 CONT 
+2 CONT 1. Gloucesater, Eng., Parish Reg., Mds., FHL Call #942.41 K29g Vol. 10 p.35.
+2 CONT 
+2 CONT 2. BT's, Avening, Gloucester, Eng. Mds., Burials, & Bapt. FHL F# 417,113,
+2 CONT (1578-1812), F# 380183 (1814), F# 380176 (1816).
+2 CONT 
+2 CONT 3. Gloucester, Eng. 1851 Census p. 17.
+0 @I74@ INDI
+1 NAME Mary /Ball/
+2 GIVN Mary
+2 SURN Ball
+1 SEX F
+1 BIRT
+2 PLAC Avening,Gloucester,England
+1 CHR
+2 DATE 12 FEB 1764
+2 PLAC Avening,Gloucester,England
+1 BAPL
+2 DATE 12 JUN 1948
+2 TEMP ARIZO
+1 ENDL
+2 DATE 12 JAN 1949
+2 TEMP ARIZO
+1 FAMS @F31@
+1 FAMC @F37@
+1 SLGC
+2 FAMC @F37@
+2 DATE 9 FEB 1950
+2 TEMP ARIZO
+0 @I79@ INDI
+1 NAME William /Ball/
+2 GIVN William
+2 SURN Ball
+1 SEX M
+1 BIRT
+2 DATE ABT 1736
+2 PLAC Avening,Gloucester,England
+1 REFN 0094
+1 BAPL
+2 DATE 29 MAY 1948
+1 ENDL
+2 DATE 15 SEP 1948
+1 FAMS @F37@
+1 FAMC @F38@
+1 SLGC
+2 FAMC @F38@
+2 DATE 15 SEP 1955
+2 TEMP ARIZO
+1 NOTE Sources:
+2 CONT 
+2 CONT 1. FHL F# 417133, Avening Parish Records,England.
+2 CONT 
+2 CONT 2. IGI, See also Church Printout for Avening,Gloucs,F# 933177
+2 CONT 
+2 CONT 3. FHL F# 1279413,Malmsbury,Wilts,England,Parish Register.
+2 CONT 
+2 CONT 4. FHL F# 855704 Avening Marriages. Mariages of Wm. & Anne.
+2 CONT 
+2 CONT 5. FHL F# 855702 Avening Burials. Death of Mary.
+0 @I80@ INDI
+1 NAME Ann /Garlick/
+2 GIVN Ann
+2 SURN Garlick
+1 SEX F
+1 BIRT
+2 DATE 2 DEC 1737
+2 PLAC Malmsbury,Wiltshire,England
+1 BURI
+2 DATE 13 JUN 1787
+2 PLAC Avening,Gloucester,England
+1 BAPL
+2 DATE 12 JUN 1948
+1 ENDL
+2 DATE 15 SEP 1948
+1 FAMS @F37@
+1 FAMC @F39@
+1 SLGC
+2 FAMC @F39@
+2 DATE 11 NOV 1989
+2 TEMP JRIVE
+0 @I88@ INDI
+1 NAME Nathaniel /Ball/
+2 GIVN Nathaniel
+2 SURN Ball
+1 SEX M
+1 BIRT
+2 DATE 17 MAY 1711
+2 PLAC Avening,Gloucestershire,England
+1 BURI
+2 DATE 22 FEB 1769
+2 PLAC Avening,Gloucestershire,England
+1 REFN 0188
+1 BAPL
+2 DATE 8 MAR 1952
+1 ENDL
+2 DATE 2 FEB 1954
+1 FAMS @F38@
+1 FAMC @F40@
+1 SLGC
+2 FAMC @F40@
+2 DATE 9 FEB 1950
+0 @I89@ INDI
+1 NAME Hannah /Fry/
+2 GIVN Hannah
+2 SURN Fry
+1 SEX F
+1 CHR
+2 DATE 9 DEC 1716
+2 PLAC Deverill,Longbridge,Wiltshire,England
+1 BURI
+2 DATE 24 MAR 1789
+2 PLAC Avening,Gloucestershire,England
+1 BAPL
+2 DATE 8 MAR 1952
+1 ENDL
+2 DATE 16 JUN 1952
+1 FAMS @F38@
+1 FAMC @F41@
+1 SLGC
+2 FAMC @F41@
+2 DATE 15 MAY 1987
+2 TEMP WASHI
+0 @I93@ INDI
+1 NAME Richard /Ball/
+2 GIVN Richard
+2 SURN Ball
+1 SEX M
+1 BIRT
+2 DATE ABT 1679
+2 PLAC Avening,Uley,Gloucester,England
+1 REFN 0376
+1 BAPL
+2 DATE 15 JAN 1949
+1 ENDL
+2 DATE 21 JAN 1949
+1 FAMS @F40@
+1 NOTE Source:
+2 CONT 
+2 CONT 1. Gloucester, Utley, Eng., Parish Register, Christenings, 1722-1755.
+0 @I94@ INDI
+1 NAME Mary /Carpenter/
+2 GIVN Mary
+2 SURN Carpenter
+1 SEX F
+1 BIRT
+2 DATE ABT 1683
+2 PLAC Avening,Gloucester,England
+1 BAPL
+2 DATE 11 DEC 1917
+1 ENDL
+2 DATE 22 MAR 1918
+1 FAMS @F40@
+0 @I104@ INDI
+1 NAME Mary /Keyte/
+2 GIVN Mary
+2 SURN Keyte
+1 SEX F
+1 CHR
+2 DATE 1 MAR 1761
+2 PLAC Cow Honeybourne,Gloucester,England
+1 BAPL
+2 DATE 2 DEC 1947
+2 TEMP LOGAN
+1 ENDL
+2 DATE 14 FEB 1947
+2 TEMP LOGAN
+1 FAMS @F44@
+1 FAMC @F47@
+1 SLGC
+2 FAMC @F47@
+2 DATE 21 MAR 1961
+2 TEMP LOGAN
+0 @I111@ INDI
+1 NAME Thomas /Smith/
+2 GIVN Thomas
+2 SURN Smith
+1 SEX M
+1 BIRT
+2 PLAC of Chipping,Campden,Gloucester,England
+1 CHR
+2 DATE 1 MAR 1755
+2 PLAC Chipping,Campden,Gloucester,England
+1 REFN 0090
+1 BAPL
+2 DATE 2 DEC 1947
+2 TEMP LOGAN
+1 ENDL
+2 DATE 13 AUG 1947
+2 TEMP LOGAN
+1 FAMS @F44@
+1 FAMC @F50@
+1 SLGC
+2 FAMC @F50@
+2 DATE 27 NOV 1973
+2 TEMP LANGE
+1 NOTE Sources:
+2 CONT 
+2 CONT 1. LDS Church Record Archives, for mds. of Thomas and Mary.
+2 CONT 
+2 CONT 2. James H. Bloom Mss. Collection, Vol. 91, p. 255. F# 504445.
+2 CONT 
+2 CONT 3.  LDS Church Printout, Chipping Campden, Eng.
+0 @I112@ INDI
+1 NAME Anne /Smith/
+2 GIVN Anne
+2 SURN Smith
+1 SEX F
+1 CHR
+2 DATE 4 MAR 1782
+2 PLAC Ilmington,Warwick,England
+1 BURI
+2 DATE 3 NOV 1815
+2 PLAC Chipping,Campden,Gloucester,England
+1 BAPL
+2 DATE 1 MAR 1947
+2 TEMP LOGAN
+1 ENDL
+2 DATE 8 JAN 1947
+2 TEMP LOGAN
+1 FAMS @F30@
+1 FAMC @F44@
+1 SLGC
+2 FAMC @F44@
+2 DATE 3 AUG 1990
+2 TEMP JRIVE
+0 @I121@ INDI
+1 NAME John /Emms/
+2 GIVN John
+2 SURN Emms
+1 SEX M
+1 BIRT
+2 DATE 2 MAY 1739
+2 PLAC Chipping,Campden,Gloucester,England
+1 BAPL
+2 DATE 8 JUN 1973
+2 TEMP LANGE
+1 ENDL
+2 DATE 6 SEP 1973
+2 TEMP LANGE
+1 FAMS @F52@
+1 FAMC @F53@
+1 SLGC
+2 FAMC @F53@
+2 DATE 27 NOV 1973
+2 TEMP LANGE
+1 NOTE Source:
+2 CONT 
+2 CONT 1. Logan TEnple Bap. for the Dead. FHL Bk. D p. 143 F# 177842.
+2 CONT 
+2 CONT 2. Parish reg. printouts of Chipping-Campden. Gloucester, Eng., Chr.,
+2 CONT 1617-1812  F# 1235340. Child #7 extracted from F# 417133.
+2 CONT 
+2 CONT 3. IGI
+2 CONT 
+2 CONT 4. Gloucester, Eng. Mds. Bonds and Allegations.
+0 @I122@ INDI
+1 NAME Elizabeth /Charity/
+2 GIVN Elizabeth
+2 SURN Charity
+1 SEX F
+1 CHR
+2 DATE 18 MAR 1743
+2 PLAC Seaton,Rutland,England
+1 BAPL
+2 DATE 17 MAR 1984
+2 TEMP LONDO
+1 ENDL
+2 DATE 5 MAY 1984
+2 TEMP LONDO
+1 FAMS @F52@
+1 FAMC @F54@
+1 SLGC
+2 FAMC @F54@
+2 DATE 18 MAY 1984
+2 TEMP LONDO
+0 @I128@ INDI
+1 NAME John /Emms/
+2 GIVN John
+2 SURN Emms
+1 SEX M
+1 CHR
+2 DATE 7 NOV 1702
+2 PLAC Weston,Subedge,Gloucester,England
+1 BAPL
+2 DATE 6 JUL 1968
+2 TEMP LANGE
+1 ENDL
+2 DATE 10 JAN 1969
+2 TEMP LANGE
+1 FAMS @F53@
+1 FAMC @F49@
+1 SLGC
+2 FAMC @F49@
+2 DATE 22 APR 1971
+2 TEMP LANGE
+1 NOTE 1. Weston Subedge, Goucester, Eng. Church Records. FHL F#504453.
+2 CONT 
+2 CONT 2. Parish Reg. Printouts of Chipping-Campden, Gloucester, Eng.
+2 CONT 
+2 CONT Christenings, 1617-1812, F# 1235340, item #7, also F# 417133.
+2 CONT 
+2 CONT 3. IGI for ordinance dates.
+0 @I129@ INDI
+1 NAME Elizabeth /Wells/
+2 GIVN Elizabeth
+2 SURN Wells
+1 SEX F
+1 BIRT
+2 DATE 3 JUL 1705
+1 CHR
+2 DATE 3 JUL 1705
+2 PLAC Chipping,Campden,Gloucester,England
+1 BAPL
+2 DATE 17 MAR 1973
+2 TEMP LANGE
+1 ENDL
+2 DATE 8 MAY 1973
+2 TEMP LANGE
+1 FAMS @F53@
+1 FAMC @F58@
+1 SLGC
+2 FAMC @F58@
+2 DATE 2 NOV 1973
+2 TEMP LANGE
+0 @I130@ INDI
+1 NAME John /Emms/
+2 GIVN John
+2 SURN Emms
+1 SEX M
+1 BIRT
+2 DATE ABT 1672
+2 PLAC of Weston,Subedge,Gloucester,England
+1 DEAT
+2 DATE 29 JUL 1724
+2 PLAC Weston,Subedge,Gloucester,England
+1 BAPL
+2 DATE 15 AUG 1990
+2 TEMP JRIVE
+1 ENDL
+2 DATE 30 OCT 1990
+2 TEMP JRIVE
+1 FAMS @F49@
+1 NOTE Sources:
+2 CONT 
+2 CONT 1. Weston Subedge, Warwickshire, England, J.H.Bloom mss., Transcripts of
+2 CONT parish church records, FHL F# 504453 Vol. 41, p. 9-11.
+2 CONT 
+2 CONT 2. LDS extraction printouts. F# 883800,item 12. (see Eams & Emms)
+2 CONT 
+2 CONT 3. FHL F# 91514 & 821018 for data on child #2, Ann.
+2 CONT 
+2 CONT 4. LDS extraction printout, F# 883800, item #2.  Note: Mary is the only child
+2 CONT listed on the printout. The others are found in the J.H.Bloom mss.(see #1)
+0 @I131@ INDI
+1 NAME Alice //
+2 GIVN Alice
+1 SEX F
+1 DEAT
+2 DATE 24 FEB 1728
+2 PLAC Weston,Subedge,Gloucester,England
+1 BURI
+2 DATE 24 FEB 1728
+2 PLAC Weston,Subedge,Gloucester,England
+1 BAPL
+2 STAT SUBMITTED
+1 ENDL
+2 STAT SUBMITTED
+1 FAMS @F49@
+0 @I133@ INDI
+1 NAME Mary /Randolph/
+2 GIVN Mary
+2 SURN Randolph
+1 SEX F
+1 BIRT
+2 DATE ABT 1685
+2 PLAC of Chipping,Campden,Gloucester,England
+1 BAPL
+2 DATE 10 DEC 1991
+1 ENDL
+2 DATE 11 MAR 1992
+1 FAMS @F58@
+0 @I135@ INDI
+1 NAME Richard /Wells/
+2 GIVN Richard
+2 SURN Wells
+1 SEX M
+1 CHR
+2 DATE 27 NOV 1681
+2 PLAC Kemerton,Gloucester,England
+1 REFN 0354
+1 BAPL
+2 DATE 13 JAN 1976
+2 TEMP LOGAN
+1 ENDL
+2 DATE 20 FEB 1976
+2 TEMP LOGAN
+1 FAMS @F58@
+1 FAMC @F59@
+1 SLGC
+2 FAMC @F59@
+2 DATE 28 APR 1976
+2 TEMP LOGAN
+1 NOTE Sources:
+2 CONT 
+2 CONT 1. Chipping-Campsen, Gloucester, Entland, Church parish records.
+2 CONT 
+2 CONT LDS Church printouts, FHL F# 1235340, item #7.
+2 CONT 
+2 CONT 2. IGI Family History Library.
+0 @I142@ INDI
+1 NAME William /Keyte/
+2 GIVN William
+2 SURN Keyte
+1 SEX M
+1 BIRT
+2 DATE 22 NOV 1717
+2 PLAC of Honeybourne,Worcester,England
+1 CHR
+2 DATE 22 NOV 1717
+2 PLAC Chipping Campden,Gloucester,England
+1 BAPL
+2 DATE 16 APR 1960
+2 TEMP SLAKE
+1 ENDL
+2 DATE 11 MAY 1960
+2 TEMP SLAKE
+1 FAMS @F47@
+1 FAMC @F60@
+1 SLGC
+2 FAMC @F60@
+2 DATE 29 FEB 1980
+2 TEMP IFALL
+1 NOTE Source:
+2 CONT 
+2 CONT 1. CRA 4th floor of the Joseph Smith Memorial Building.
+2 CONT 
+2 CONT 2. J.H.Bloom Transcript. FHL F# 504452 Vol. 37 p. 38, 43. Birth record of the
+2 CONT 
+2 CONT children. F# 504452
+0 @I143@ INDI
+1 NAME Mary /Woodward/
+2 GIVN Mary
+2 SURN Woodward
+1 SEX F
+1 CHR
+2 DATE 13 DEC 1716
+2 PLAC Blockley,Worcester,England
+1 BAPL
+2 DATE 15 APR 1960
+2 TEMP SLAKE
+1 ENDL
+2 DATE 12 MAY 1960
+2 TEMP SLAKE
+1 FAMS @F47@
+1 FAMC @F61@
+1 SLGC
+2 FAMC @F61@
+2 STAT SUBMITTED
+0 @I156@ INDI
+1 NAME Richard /Wells/
+2 GIVN Richard
+2 SURN Wells
+1 SEX M
+1 CHR
+2 DATE 30 JUL 1658
+2 PLAC of Chipping,Campden,Gloucester,England
+1 BAPL
+2 DATE 15 NOV 1979
+2 TEMP IFALL
+1 ENDL
+2 DATE 20 FEB 1980
+2 TEMP IFALL
+1 FAMS @F59@
+1 SLGC
+2 DATE 29 FEB 1980
+2 TEMP IFALL
+1 NOTE Sources:
+2 CONT 
+2 CONT 1. Kemerton, Gloucester, England, J.H.Bloom trans., FHL F# 504453.
+2 CONT 
+2 CONT 2. IGI FHL.
+2 CONT 
+2 CONT 3. Kemerton, Gloucester, Eng. parish register, FHL F# 425445.
+0 @I157@ INDI
+1 NAME Sarah //
+2 GIVN Sarah
+1 SEX F
+1 BIRT
+2 DATE ABT 1663
+2 PLAC of Kemerton,Gloucester,England
+1 BAPL
+2 DATE 8 FEB 1994
+2 TEMP JRIVE
+1 ENDL
+2 DATE 20 JUL 1994
+2 TEMP JRIVE
+1 FAMS @F59@
+0 @I158@ INDI
+1 NAME Richard /Smith/
+2 GIVN Richard
+2 SURN Smith
+1 SEX M
+1 CHR
+2 DATE 30 APR 1718
+2 PLAC Temple Guiting,Gloucester,England
+1 REFN 0180
+1 BAPL
+2 DATE 9 JUL 1977
+2 TEMP LONDO
+1 ENDL
+2 DATE 2 SEP 1977
+2 TEMP LONDO
+1 FAMS @F50@
+1 FAMC @F62@
+1 SLGC
+2 FAMC @F62@
+2 DATE 18 NOV 1977
+2 TEMP LONDO
+0 @I159@ INDI
+1 NAME Susan //
+2 GIVN Susan
+1 SEX F
+1 BIRT
+2 DATE ABT 1723
+2 PLAC of Chipping,Campden,Gloucester,England
+1 BAPL
+2 STAT SUBMITTED
+1 ENDL
+2 STAT SUBMITTED
+1 FAMS @F50@
+0 @I164@ INDI
+1 NAME William /Smith/
+2 GIVN William
+2 SURN Smith
+1 SEX M
+1 CHR
+2 DATE 24 OCT 1692
+2 PLAC Temple Guiting,Gloucester,England
+1 REFN 0360
+1 BAPL
+2 DATE 9 JUL 1977
+2 TEMP LONDO
+1 ENDL
+2 DATE 1 SEP 1977
+2 TEMP LONDO
+1 FAMS @F62@
+1 FAMC @F63@
+1 SLGC
+2 FAMC @F63@
+2 DATE 23 NOV 1977
+2 TEMP LONDO
+0 @I165@ INDI
+1 NAME Anne //
+2 GIVN Anne
+1 SEX F
+1 FAMS @F62@
+0 @I170@ INDI
+1 NAME Richard /Smith/
+2 GIVN Richard
+2 SURN Smith
+1 SEX M
+1 BIRT
+2 DATE ABT 1666
+2 PLAC of Temple,Guiting,Gloucester,England
+1 BAPL
+2 DATE 22 MAY 1935
+1 ENDL
+2 STAT SUBMITTED
+1 FAMS @F63@
+1 NOTE Note: Taken from the LDS printout. Not sure that this family is correct. (MSH)
+0 @I171@ INDI
+1 NAME Sarah //
+2 GIVN Sarah
+1 SEX F
+1 BIRT
+2 DATE ABT 1671
+2 PLAC of Temple,Guiting,Gloucester,England
+1 BAPL
+2 STAT SUBMITTED
+1 ENDL
+2 STAT SUBMITTED
+1 FAMS @F63@
+0 @I175@ INDI
+1 NAME Richard /Keyte/
+2 GIVN Richard
+2 SURN Keyte
+1 SEX M
+1 BIRT
+2 DATE ABT 1670
+2 PLAC of Broad Campden,Gloucester,England
+1 REFN 0364
+1 BAPL
+2 DATE 1 FEB 1941
+2 TEMP SGEOR
+1 ENDL
+2 DATE 21 JUL 1994
+2 TEMP JRIVE
+1 FAMS @F60@
+1 NOTE Source:"
+2 CONT 
+2 CONT Chipping Campdenm,. Gloucester, England printout, christenings 1617-1812,
+2 CONT 
+2 CONT p. 207. Batch # C 2621-1.
+0 @I176@ INDI
+1 NAME Elizabeth /Smith/
+2 GIVN Elizabeth
+2 SURN Smith
+1 SEX F
+1 BIRT
+2 DATE ABT 1675
+2 PLAC of Aston Subedge,Gloucester,England
+1 BAPL
+2 DATE 7 JAN 1994
+2 TEMP JRIVE
+1 ENDL
+2 DATE 11 MAR 1994
+2 TEMP JRIVE
+1 FAMS @F60@
+1 NOTE Source:
+2 CONT 
+2 CONT 1. Chipping Campden, Gloucester, Eng., LDS printouts of parish register,
+2 CONT C-2621-177.
+0 @I183@ INDI
+1 NAME Richard /Emms/
+2 GIVN Richard
+2 SURN Emms
+2 NSFX Butcher
+1 TITL Butcher
+1 SEX M
+1 CHR
+2 DATE 17 MAY 1780
+2 PLAC Chipping,Campden,Gloucester,England
+1 DEAT
+2 DATE 3 OCT 1840
+2 PLAC Chipping,Campden,Gloucester,England
+1 BAPL
+2 DATE 1 MAR 1947
+2 TEMP LOGAN
+1 ENDL
+2 DATE 26 JUN 1947
+2 TEMP LOGAN
+1 FAMS @F30@
+1 FAMC @F52@
+1 SLGC
+2 FAMC @F52@
+2 DATE 27 NOV 1973
+2 TEMP LANGE
+1 NOTE Source:
+2 CONT 
+2 CONT 1. Ilmington, Warwick, Eng., James H. Bloom Mss. Vol. IX, p. 261-265.
+2 CONT 
+2 CONT 2  Transcripts from the Parish Registers. FHL F# 504445.
+2 CONT 
+2 CONT 3. Chipping, Campden, Gloucester, Eng., BT's, F# 417133.
+2 CONT 
+2 CONT 4. LDS Parish Printouts.  FHL F# 1235340, item #7.
+0 @I185@ INDI
+1 NAME Richard /Charity/
+2 GIVN Richard
+2 SURN Charity
+1 SEX M
+1 CHR
+2 DATE 26 DEC 1709
+2 PLAC Seaton,Rutland,England
+1 BURI
+2 DATE 11 OCT 1785
+2 PLAC Thorpe,Rutland,England
+1 REFN 0178
+1 BAPL
+2 DATE 17 MAR 1984
+2 TEMP LONDO
+1 ENDL
+2 DATE 6 JUN 1984
+2 TEMP LONDO
+1 FAMS @F54@
+1 FAMC @F65@
+1 SLGC
+2 FAMC @F65@
+2 DATE 4 AUG 1984
+2 TEMP LONDO
+1 NOTE Sources:
+2 CONT 
+2 CONT 1. Seaton,Rutland,England,Parish Register,F# 1234420,item #9.
+2 CONT 
+2 CONT Notes:
+2 CONT 
+2 CONT The ordinance work for child #2, Mary, was not done under the extraction
+2 CONT program because there were no parents mentioned for her but as no other parents
+2 CONT of that surname had children entered in the register I have added her to the
+2 CONT family. (MSH)
+2 CONT 
+2 CONT A Richard Charity died as a pauper in Seaton in 1785. I have assumed this to be
+2 CONT the father of the seven children listed on the famly group sheet.
+2 CONT 
+2 CONT Both Mary and Richard are mentioned as being of Thorpe, but their children were
+2 CONT baptized in Seaton Parish.
+2 CONT 
+2 CONT Richard is named as father in the records but Mary is only listed as the mother
+2 CONT at the baptism of Elizabeth.
+2 CONT 
+2 CONT William was not listed in the baptism section but in the burial list of 1739.
+2 CONT The parchment for 1738 was missing. I feel strongly that he belongs to this
+2 CONT family. (MSH)
+0 @I186@ INDI
+1 NAME Samuel /Woodward/
+2 GIVN Samuel
+2 SURN Woodward
+1 SEX M
+1 BIRT
+2 DATE ABT 1690
+2 PLAC of Blockley,Worcester,England
+1 REFN 0366
+1 BAPL
+2 DATE 10 DEC 1991
+2 TEMP JRIVE
+1 ENDL
+2 DATE 11 DEC 1991
+2 TEMP JRIVE
+1 FAMS @F61@
+1 NOTE Source:
+2 CONT 
+2 CONT 1. J.H.Bloom Mss. Vol.61 FHL F# 504456 #3. Bap.
+2 CONT 
+2 CONT 2. Coe-Honeybourne, G;loucester, ENg. ch. par. recrds. J.Harvey Bloom
+2 CONT transcripts, HHL F# 504452, #11 for mds.
+2 CONT 
+2 CONT 3. Blockldy, Worcester, Engl., chr., par., recrds., J.Harvey Bloom
+2 CONT transcripts, FHL F# 504474 for bp. of children.
+2 CONT 
+2 CONT Note: Under the extraction program Samuel was transcribed as Samuel Wordes
+2 CONT instead of Samuel Woodward. To find their sealing date on the IGI look under
+2 CONT Mary Blackwell or Samuel Wordes.
+0 @I187@ INDI
+1 NAME Mary /Blackwell/
+2 GIVN Mary
+2 SURN Blackwell
+1 SEX F
+1 BIRT
+2 DATE ABT 1695
+2 PLAC of Bretforton,Worcester,England
+1 BAPL
+2 STAT SUBMITTED
+1 ENDL
+2 STAT SUBMITTED
+1 FAMS @F61@
+0 @I190@ INDI
+1 NAME /Mary/
+2 SURN Mary
+1 SEX F
+1 BIRT
+2 DATE ABT 1710
+2 PLAC of Thorpe,Rutland,England
+1 BAPL
+2 STAT SUBMITTED
+1 ENDL
+2 STAT SUBMITTED
+1 FAMS @F54@
+0 @I197@ INDI
+1 NAME George /Charity/
+2 GIVN George
+2 SURN Charity
+1 SEX M
+1 BIRT
+2 DATE ABT 1681
+2 PLAC of Seaton,Rutland,England
+1 REFN 0356
+1 BAPL
+2 DATE 2 JAN 1992
+2 TEMP JRIVE
+1 ENDL
+2 DATE 2 JAN 1992
+2 TEMP JRIVE
+1 FAMS @F65@
+1 NOTE George Charity (1681)
+2 CONT 
+2 CONT Sources:
+2 CONT 
+2 CONT 1.  FHL I G I, Salt Lake City, UT.
+2 CONT 
+2 CONT 2.  Seaton, Rutland, England, Bishop's Transcripts, FHL F# 1234420, item #9.
+2 CONT 
+2 CONT Note: There is no LDS index printout for this parish register.  I don't
+2 CONT know  where I got Mary, the wife of    George - I probably just guessed.
+2 CONT The registers are missing for the years 1702-6, 1713-18, 1732,and 1765.
+0 @I198@ INDI
+1 NAME Mary //
+2 GIVN Mary
+1 SEX F
+1 BIRT
+2 DATE ABT 1686
+2 PLAC of Seaton,Rutland,England
+1 BAPL
+2 DATE 2 JAN 1992
+2 TEMP JRIVE
+1 ENDL
+2 DATE 16 APR 1992
+2 TEMP JRIVE
+1 FAMS @F65@
+0 @I203@ INDI
+1 NAME Edward /Garlick/
+2 GIVN Edward
+2 SURN Garlick
+1 SEX M
+1 BIRT
+2 DATE ABT 1712
+2 PLAC of West Port,St. Mary Within,Wiltshire,England
+1 BAPL
+2 DATE 5 JAN 1994
+2 TEMP JRIVE
+1 ENDL
+2 DATE 5 JAN 1994
+2 TEMP JRIVE
+1 FAMS @F39@
+0 @I204@ INDI
+1 NAME Mary /Goater/
+2 GIVN Mary
+2 SURN Goater
+1 SEX F
+1 BIRT
+2 DATE ABT 1717
+2 PLAC of Horsley,Gloucester,England
+1 BAPL
+2 DATE 21 NOV 2000
+1 ENDL
+2 DATE 21 NOV 2000
+1 FAMS @F39@
+0 @I205@ INDI
+1 NAME William /Fry/
+2 GIVN William
+2 SURN Fry
+1 SEX M
+1 BIRT
+2 DATE ABT 1690
+2 PLAC of Charlton,Wiltshire,England
+1 REFN 378
+1 BAPL
+2 DATE 20 MAR 1970
+2 TEMP LANGE
+1 ENDL
+2 DATE 17 JUL 1970
+2 TEMP LANGE
+1 FAMS @F41@
+1 NOTE 1. England, Wiltshire, Deverill Longbridge, Church Records
+2 CONT 
+2 CONT 2. FHL Film # 1279388 item #19-23 for the marr. of William Fry and Mary
+2 CONT Butcher, 20 Sep 1705. This film is the B.T's.
+2 CONT 
+2 CONT 3. FHL Film # 1279371 item 7, 17 for the birth of the children and the
+2 CONT marriage of William and Mary. This film is the parish register.
+2 CONT 
+2 CONT 4. Deverill Longbridge, Wilts., Eng., Parish Reg., F# 1279371, item #7-17.
+2 CONT 
+2 CONT 5. Deverill Longbridge, Wilts., Eng., B.T's, F# 1279388.
+2 CONT 
+2 CONT 6. Beverstone, Glouc., Eng., Par. Reg., F# 1058055.
+2 CONT 
+2 CONT 7. Phillmores mds. transcripts, Vol. 6, p. 22.
+0 @I206@ INDI
+1 NAME Mary /Butcher/
+2 GIVN Mary
+2 SURN Butcher
+1 SEX F
+1 BIRT
+2 DATE ABT 1695
+2 PLAC Deverill,Longbridge,Wiltshire,England
+1 BAPL
+2 DATE 27 FEB 1970
+2 TEMP LANGE
+1 ENDL
+2 DATE 21 NOV 2000
+1 FAMS @F41@
+0 @F11@ FAM
+1 HUSB @I50@
+1 WIFE @I51@
+1 CHIL @I16@
+1 MARR
+2 DATE 25 FEB 1832
+2 PLAC Cheltenham,Gloucester,England
+1 SLGS
+2 DATE 25 MAR 1968
+2 TEMP LOGAN
+0 @F30@ FAM
+1 HUSB @I183@
+1 WIFE @I112@
+1 CHIL @I50@
+1 MARR
+2 DATE 29 JUN 1801
+2 PLAC Chipping,Campden,Gloucester,England
+1 SLGS
+2 DATE 5 AUG 1948
+2 TEMP LOGAN
+0 @F31@ FAM
+1 HUSB @I73@
+1 WIFE @I74@
+1 CHIL @I51@
+1 MARR
+2 DATE 26 MAY 1799
+2 PLAC Avening,Gloucester,England
+1 SLGS
+2 DATE 17 FEB 1953
+2 TEMP ARIZO
+0 @F37@ FAM
+1 HUSB @I79@
+1 WIFE @I80@
+1 CHIL @I74@
+1 MARR
+2 DATE 26 APR 1761
+2 PLAC Avening,Gloucester,England
+1 SLGS
+2 DATE 9 FEB 1950
+2 TEMP ARIZO
+0 @F38@ FAM
+1 HUSB @I88@
+1 WIFE @I89@
+1 CHIL @I79@
+1 MARR
+2 DATE 1 APR 1734
+2 PLAC Beverstone,Gloucester,England
+1 SLGS
+2 DATE 15 SEP 1955
+2 TEMP ARIZO
+0 @F39@ FAM
+1 HUSB @I203@
+1 WIFE @I204@
+1 CHIL @I80@
+1 MARR
+2 DATE 6 JAN 1736
+2 PLAC Horsley,Gloucester,England
+1 SLGS
+2 DATE 13 FEB 1928
+2 TEMP SLAKE
+0 @F40@ FAM
+1 HUSB @I93@
+1 WIFE @I94@
+1 CHIL @I88@
+1 MARR
+2 DATE 16 JUL 1702
+1 SLGS
+2 DATE 9 FEB 1950
+0 @F41@ FAM
+1 HUSB @I205@
+1 WIFE @I206@
+1 CHIL @I89@
+1 MARR
+2 DATE 20 SEP 1705
+2 PLAC Deverill,Longbridge,Wiltshire,England
+1 SLGS
+2 DATE 15 MAY 1987
+2 TEMP WASHI
+0 @F44@ FAM
+1 HUSB @I111@
+1 WIFE @I104@
+1 CHIL @I112@
+1 MARR
+2 DATE 14 MAY 1781
+2 PLAC Chipping,Campden,Gloucester,England
+1 SLGS
+2 DATE 13 JAN 1948
+2 TEMP LOGAN
+0 @F47@ FAM
+1 HUSB @I142@
+1 WIFE @I143@
+1 CHIL @I104@
+1 MARR
+2 DATE 21 SEP 1742
+2 PLAC Chipping,Campden,Gloucester,England
+1 SLGS
+2 DATE 21 MAR 1961
+2 TEMP SLAKE
+0 @F49@ FAM
+1 HUSB @I130@
+1 WIFE @I131@
+1 CHIL @I128@
+1 MARR
+2 DATE ABT 1701
+2 PLAC Weston,Subedge,Gloucester,England
+1 SLGS
+2 DATE 30 OCT 1990
+2 TEMP JRIVE
+0 @F50@ FAM
+1 HUSB @I158@
+1 WIFE @I159@
+1 CHIL @I111@
+1 MARR
+2 DATE ABT 1742
+2 PLAC ,of Gloucester,England
+1 SLGS
+2 DATE 25 JAN 1994
+1 NOTE Source:
+2 CONT 
+2 CONT 1. LDS Church printout, C-2621-1.
+2 CONT 
+2 CONT Note:  This family may be all wrong but I hope some of it may be correct.
+0 @F52@ FAM
+1 HUSB @I121@
+1 WIFE @I122@
+1 CHIL @I183@
+1 MARR
+2 DATE 13 JAN 1764
+2 PLAC Chipping,Campden,Gloucester,England
+1 SLGS
+2 DATE 21 SEP 1979
+2 TEMP PROVO
+0 @F53@ FAM
+1 HUSB @I128@
+1 WIFE @I129@
+1 CHIL @I121@
+1 MARR
+2 DATE 2 OCT 1729
+2 PLAC Chipping,Campden,Gloucester,England
+1 SLGS
+2 DATE 21 SEP 1979
+2 TEMP IFALL
+0 @F54@ FAM
+1 HUSB @I185@
+1 WIFE @I190@
+1 CHIL @I122@
+1 MARR
+2 DATE ABT 1729
+2 PLAC Seaton,Rutland,England
+1 SLGS
+2 DATE 21 JAN 1992
+2 TEMP JRIVE
+0 @F58@ FAM
+1 HUSB @I135@
+1 WIFE @I133@
+1 CHIL @I129@
+1 MARR
+2 DATE 13 FEB 1703
+2 PLAC Chipping,Campden,Gloucester,England
+1 SLGS
+2 DATE 21 SEP 1979
+2 TEMP IFALL
+0 @F59@ FAM
+1 HUSB @I156@
+1 WIFE @I157@
+1 CHIL @I135@
+1 MARR
+2 DATE ABT 1680
+1 SLGS
+2 DATE 21 JAN 1992
+2 TEMP JRIVE
+0 @F60@ FAM
+1 HUSB @I175@
+1 WIFE @I176@
+1 CHIL @I142@
+1 MARR
+2 DATE 2 FEB 1695
+2 PLAC Aston Subedge,Gloucester,England
+1 SLGS
+2 DATE 31 JAN 1973
+2 TEMP LANGE
+0 @F61@ FAM
+1 HUSB @I186@
+1 WIFE @I187@
+1 CHIL @I143@
+1 MARR
+2 DATE 11 OCT 1714
+2 PLAC Cow-Honeybourne,Gloucester,England
+1 SLGS
+2 DATE 29 MAR 1994
+2 TEMP JRIVE
+0 @F62@ FAM
+1 HUSB @I164@
+1 WIFE @I165@
+1 CHIL @I158@
+1 MARR
+2 DATE ABT 1717
+1 SLGS
+2 DATE 28 FEB 1996
+2 TEMP PROVO
+0 @F63@ FAM
+1 HUSB @I170@
+1 WIFE @I171@
+1 CHIL @I164@
+1 MARR
+2 DATE 28 OCT 1693
+2 PLAC of Avening,Gloucester,England
+1 SLGS
+2 DATE 2 FEB 1974
+2 TEMP OGDEN
+0 @F65@ FAM
+1 HUSB @I197@
+1 WIFE @I198@
+1 CHIL @I185@
+1 MARR
+2 DATE ABT 1706
+2 PLAC of Seaton,Rutland,England
+1 SLGS
+2 DATE 30 JAN 1992
+2 TEMP JRIVE
+0 TRLR
