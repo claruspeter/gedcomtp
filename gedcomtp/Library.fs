@@ -15,10 +15,23 @@ module Gedcom =
     let appendChild parent child = 
         {parent with children = parent.children |> Seq.append [child]}
 
-    let fromStrings (data:string seq) =
-        data
-        |> Seq.map toNode 
-        |> Seq.fold (fun acc item -> acc @ [item] ) []
+    let (|Seq|_|) test input =
+        if Seq.compareWith Operators.compare input test = 0
+            then Some input
+            else None
+
+    let rec fromStrings (data:string list) =
+        match data with 
+        | [] -> []
+        | [s] -> [toNode s]
+        | x::xs ->
+            let childs = fromStrings xs
+            let node = toNode x
+            if node.level = childs.[0].level then
+                [node] @ childs
+            else
+                [{node with children = childs |> List.toArray}]
+
 
     let fromFile filename =
         File.ReadLines filename
