@@ -26,6 +26,17 @@ let ``Append node to parent``() =
     Assert.Equal(updated.children |> Seq.head, child)
 
 [<Fact>]
+let ``Can compile a group all of the same level into a list``()=
+    let input = [
+        "1 AAAA"
+        "1 BBBB askdjhas"
+        "1 CCCC sjsjsj"
+    ]
+    let result = fromStrings input
+    Assert.Equal(3, input.Length)
+    Assert.True(result |> List.fold (fun acc item -> acc && item.level=1) true)
+
+[<Fact>]
 let ``Starts with head `` () =
     let result = fromFile "../../../sample.ged"
     Assert.Equal("HEAD", result.label)

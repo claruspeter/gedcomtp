@@ -15,6 +15,11 @@ module Gedcom =
     let appendChild parent child = 
         {parent with children = parent.children |> Seq.append [child]}
 
+    let fromStrings (data:string seq) =
+        data
+        |> Seq.map toNode 
+        |> Seq.fold (fun acc item -> acc @ [item] ) []
+
     let fromFile filename =
         File.ReadLines filename
         |> Seq.head
