@@ -4,6 +4,12 @@ open System
 open Xunit
 open System.Data.Gedcom
 
+let getlabel x = x.label
+let getchildren x = x.children
+let print result =
+    result |> List.iter (fun x -> printfn "%s" (x.ToString()))
+
+
 [<Fact>]
 let ``Can parse level label and value`` () =
     let result = toNode "0 DATA sdjfhgasjfdg"
@@ -44,38 +50,30 @@ let ``Can compile a group of different levels into a hierarchy``()=
         "3 CCCC sjsjsj"
     ]
     let result = fromStrings input
-    let getlabel = (fun x -> x.label)
-    let getchildren = (fun x -> x.children)
     Assert.Equal(1, result.Length)
     Assert.Equal("AAAA", result.[0].label)
     Assert.Equal("BBBB", result.[0].children |> Seq.head |> getlabel)
     Assert.Equal("CCCC", result.[0].children |> Seq.head |> getchildren |> Seq.head |> getlabel)
 
-//     FAILS!
-// [<Fact>]
-// let ``Can compile many groups of different levels that go up and down``()=
-//     let input = [
-//         "1 A000"
-//         "2 AA00 askdjhas"
-//         "3 AAA0 sjsjsj"
-//         "1 B000 sjsjsj"
-//         "2 BA00 sjsjsj"
-//         "2 BB00 sjsjsj"
-//     ]
-//     let result = fromStrings input
-//     let getlabel = (fun x -> x.label)
-//     let getchildren = (fun x -> x.children)
-//     printfn "%A" result
-//     Assert.Equal(1, result.Length)
-//     Assert.Equal("A000", result.[0].label)
-//     Assert.Equal("AA00", result.[0].children |> Seq.head |> getlabel)
-//     Assert.Equal("AAA0", result.[0].children |> Seq.head |> getchildren |> Seq.head |> getlabel)
-//     Assert.Equal("B000", result.[1].label)
-//     Assert.Equal("BA00", result.[1].children |> Seq.head |> getlabel)
-//     Assert.Equal("BB00", result.[1].children |> Seq.item 1 |> getlabel)
+[<Fact>]
+let ``Can compile many groups of different levels that go up and down``()=
+    let input = [
+        "1 A000"
+        "2 AA00 askdjhas"
+        "1 B000 sjsjsj"
+        "2 BA00 adsasdadasd"
+    ]
+    let result = fromStrings input
+    Assert.Equal(2, result.Length)
+    Assert.Equal("A000", result.[0].label)
+    Assert.Equal("AA00", result.[0].children |> Seq.head |> getlabel)
+    Assert.Equal("B000", result.[1].label)
+    Assert.Equal("BA00", result.[1].children |> Seq.head |> getlabel)
+
 
 [<Fact>]
 let ``Starts with head `` () =
     let result = fromFile "../../../sample.ged"
-    Assert.Equal("HEAD", result.label)
-    Assert.Equal(None, result.value)
+    print result
+    Assert.Equal("HEAD", result.[0].label)
+    Assert.Equal(None, result.[0].value)
